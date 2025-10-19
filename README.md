@@ -1,4 +1,4 @@
-# 🚀 fc-pos-golang-stress-test
+# 🚀 FC - POS Golang Stress Test
 
 > Sistema CLI em Go para realizar testes de carga em serviços web com suporte a concorrência configurável.
 
